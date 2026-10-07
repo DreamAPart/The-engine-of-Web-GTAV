@@ -1,2 +1,19 @@
-# The-engine-of-Web-GTAV
-This is a GTAV WASM Engine extracted from PlayGTA5.com. It requires the original GTAV game files to run.(No sources code.Only build version)
+# GTAV WASM
+
+The GTAV WASM engine was extracted from **Playgta5.com**.  
+It does **not** contain any original GTAV game files.
+
+## Playing the Full Version
+
+If you want to play the full version, download **GTAV Build 108** and extract all RPF game files.
+
+Then place:
+
+- `x64*.rpf` into `data/x64`
+- `common.rpf` into `data/common`
+
+You must provide your own legally obtained game files.
+
+## License
+
+MIT
