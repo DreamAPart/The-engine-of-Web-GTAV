@@ -14,6 +14,8 @@ Then place:
 
 You must provide your own legally obtained game files.
 
+Quickly!This is the full version:https://archive.org/download/gta5-wasm/.Quickly Quickly Quickly!!!
+
 ## License
 
 MIT
