@@ -18,4 +18,4 @@ Quickly!This is the full version:https://archive.org/download/gta5-wasm/.Quickly
 
 ## License
 
-MIT
+The Unlicense
